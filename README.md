@@ -1,6 +1,6 @@
 ### Hello World! My name is Chima 👋
 
-- 🌱 I’m currently learning Deep Learning, Natural Language Processing, Javascript & Node.js.
+- 🌱 I’m currently learning Java, C# & Javascript.
 - 🧠 I focus on Python, Django, Flask, GIS, RS, Sklearn, Pandas, Seaborn.
 - 👯 I’m looking to collaborate on any open source project 🤝
 - 💪 I code to contribute to humanity.
